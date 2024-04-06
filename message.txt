@@ -1,0 +1,6 @@
+Bonjour,
+
+Voici un exmeple d'utilisation de la librairie python 'email'.
+
+Cordialement,
+Philippe AMICE.

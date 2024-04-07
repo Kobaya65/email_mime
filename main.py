@@ -3,9 +3,9 @@ import ssl
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-sender_email = "philippe.amice@laposte.net"
-receiver_email = "philamice@gmail.com"
-password = r'VS^9MHb%gsvaY$JY@AmHv*9TQ'
+sender_email = ""
+receiver_email = ""
+password = r''
 
 
 message = MIMEMultipart("alternative")
